@@ -6,7 +6,6 @@ INDEX VERSION 1.131+D:\repositorios_github\jms_activemq\.metadata\.plugins\org.e
 2301764121.index
 984405575.index
 1445374004.index
-4236252316.index
 1518221326.index
 4220280190.index
 827285296.index
